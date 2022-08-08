@@ -15653,18 +15653,14 @@ html:not(.layout-footer-fixed) .content-wrapper {
   align-items: center;
 }
 
-.app-brand-logo {
+.app-brand- {
   display: block;
   flex-grow: 0;
   flex-shrink: 0;
   overflow: hidden;
   min-height: 1px;
 }
-.app-brand-logo img,
-.app-brand-logo svg {
-  display: block;
-}
-
+.
 .app-brand-text {
   flex-shrink: 0;
   opacity: 1;
@@ -15688,13 +15684,13 @@ html:not(.layout-footer-fixed) .content-wrapper {
 :not(.layout-menu) > .menu-vertical.menu-collapsed:not(.layout-menu):not(:hover) .app-brand {
   width: 5.25rem;
 }
-:not(.layout-menu) > .menu-vertical.menu-collapsed:not(.layout-menu):not(:hover) .app-brand-logo,
+:not(.layout-menu) > .menu-vertical.menu-collapsed:not(.layout-menu):not(:hover) .app-brand-,
 :not(.layout-menu) > .menu-vertical.menu-collapsed:not(.layout-menu):not(:hover) .app-brand-link,
 :not(.layout-menu) > .menu-vertical.menu-collapsed:not(.layout-menu):not(:hover) .app-brand-text {
   margin-right: auto;
   margin-left: auto;
 }
-:not(.layout-menu) > .menu-vertical.menu-collapsed:not(.layout-menu):not(:hover) .app-brand-logo ~ .app-brand-text {
+:not(.layout-menu) > .menu-vertical.menu-collapsed:not(.layout-menu):not(:hover) .app-brand- ~ .app-brand-text {
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: nowrap;
@@ -15714,13 +15710,13 @@ html:not(.layout-footer-fixed) .content-wrapper {
   .layout-menu-collapsed:not(.layout-menu-hover):not(.layout-menu-offcanvas):not(.layout-menu-fixed-offcanvas) .layout-menu .app-brand {
     width: 5.25rem;
   }
-  .layout-menu-collapsed:not(.layout-menu-hover):not(.layout-menu-offcanvas):not(.layout-menu-fixed-offcanvas) .layout-menu .app-brand-logo,
+  .layout-menu-collapsed:not(.layout-menu-hover):not(.layout-menu-offcanvas):not(.layout-menu-fixed-offcanvas) .layout-menu .app-brand-,
 .layout-menu-collapsed:not(.layout-menu-hover):not(.layout-menu-offcanvas):not(.layout-menu-fixed-offcanvas) .layout-menu .app-brand-link,
 .layout-menu-collapsed:not(.layout-menu-hover):not(.layout-menu-offcanvas):not(.layout-menu-fixed-offcanvas) .layout-menu .app-brand-text {
     margin-right: auto;
     margin-left: auto;
   }
-  .layout-menu-collapsed:not(.layout-menu-hover):not(.layout-menu-offcanvas):not(.layout-menu-fixed-offcanvas) .layout-menu .app-brand-logo ~ .app-brand-text {
+  .layout-menu-collapsed:not(.layout-menu-hover):not(.layout-menu-offcanvas):not(.layout-menu-fixed-offcanvas) .layout-menu .app-brand- ~ .app-brand-text {
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
